@@ -1,0 +1,4 @@
+# Ignore node_modules and build
+node_modules/
+dist/
+.env
